@@ -1,5 +1,3 @@
-# Hackathons
-
 - [T3chFest 2015 (Feb 2015)](http://github.com/jorgebg/T3chFest-2015)
 - [Tuenti Challenge 5 (Jun 2015)](https://github.com/jorgebg/tuenti-contest)
 - [TADHack Dublin 2015 (Jun 2015)](https://github.com/jorgebg/tadhack15)
